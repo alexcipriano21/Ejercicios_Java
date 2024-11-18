@@ -1,0 +1,511 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "frm15",
+            "request": "launch",
+            "mainClass": "recursividad.frm15",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm14",
+            "request": "launch",
+            "mainClass": "recursividad.frm14",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm08",
+            "request": "launch",
+            "mainClass": "recursividad.frm08",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm07",
+            "request": "launch",
+            "mainClass": "recursividad.frm07",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm06",
+            "request": "launch",
+            "mainClass": "recursividad.frm06",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm05",
+            "request": "launch",
+            "mainClass": "recursividad.frm05",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm04",
+            "request": "launch",
+            "mainClass": "recursividad.frm04",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm03",
+            "request": "launch",
+            "mainClass": "recursividad.frm03",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm02",
+            "request": "launch",
+            "mainClass": "recursividad.frm02",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm01",
+            "request": "launch",
+            "mainClass": "recursividad.frm01",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm14",
+            "request": "launch",
+            "mainClass": "repetitivas.frm14",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm010",
+            "request": "launch",
+            "mainClass": "repetitivas.frm010",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm10",
+            "request": "launch",
+            "mainClass": "repetitivas.frm10",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm09",
+            "request": "launch",
+            "mainClass": "repetitivas.frm09",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm08",
+            "request": "launch",
+            "mainClass": "repetitivas.frm08",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm07",
+            "request": "launch",
+            "mainClass": "repetitivas.frm07",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm06",
+            "request": "launch",
+            "mainClass": "repetitivas.frm06",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm05",
+            "request": "launch",
+            "mainClass": "repetitivas.frm05",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm04",
+            "request": "launch",
+            "mainClass": "repetitivas.frm04",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm03",
+            "request": "launch",
+            "mainClass": "repetitivas.frm03",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm02",
+            "request": "launch",
+            "mainClass": "repetitivas.frm02",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm01",
+            "request": "launch",
+            "mainClass": "repetitivas.frm01",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm30",
+            "request": "launch",
+            "mainClass": "condicionales.frm30",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm29",
+            "request": "launch",
+            "mainClass": "condicionales.frm29",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm27",
+            "request": "launch",
+            "mainClass": "condicionales.frm27",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm26",
+            "request": "launch",
+            "mainClass": "condicionales.frm26",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm25",
+            "request": "launch",
+            "mainClass": "condicionales.frm25",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm38",
+            "request": "launch",
+            "mainClass": "condicionales.frm38",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm28",
+            "request": "launch",
+            "mainClass": "condicionales.frm28",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm24",
+            "request": "launch",
+            "mainClass": "condicionales.frm24",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm23",
+            "request": "launch",
+            "mainClass": "condicionales.frm23",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm22",
+            "request": "launch",
+            "mainClass": "condicionales.frm22",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm21",
+            "request": "launch",
+            "mainClass": "condicionales.frm21",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm20",
+            "request": "launch",
+            "mainClass": "condicionales.frm20",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm19",
+            "request": "launch",
+            "mainClass": "condicionales.frm19",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm18",
+            "request": "launch",
+            "mainClass": "condicionales.frm18",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm17",
+            "request": "launch",
+            "mainClass": "condicionales.frm17",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm16",
+            "request": "launch",
+            "mainClass": "condicionales.frm16",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm14",
+            "request": "launch",
+            "mainClass": "condicionales.frm14",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm13",
+            "request": "launch",
+            "mainClass": "condicionales.frm13",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm10",
+            "request": "launch",
+            "mainClass": "condicionales.frm10",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm09",
+            "request": "launch",
+            "mainClass": "condicionales.frm09",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm08",
+            "request": "launch",
+            "mainClass": "condicionales.frm08",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm07",
+            "request": "launch",
+            "mainClass": "condicionales.frm07",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm06",
+            "request": "launch",
+            "mainClass": "condicionales.frm06",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm05",
+            "request": "launch",
+            "mainClass": "condicionales.frm05",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm04",
+            "request": "launch",
+            "mainClass": "condicionales.frm04",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm02",
+            "request": "launch",
+            "mainClass": "condicionales.frm02",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm03",
+            "request": "launch",
+            "mainClass": "condicionales.frm03",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm01",
+            "request": "launch",
+            "mainClass": "condicionales.frm01",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "frm11",
+            "request": "launch",
+            "mainClass": "condicionales.frm11",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm12",
+            "request": "launch",
+            "mainClass": "condicionales.frm12",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm01",
+            "request": "launch",
+            "mainClass": "secuenciales.frm01",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm02",
+            "request": "launch",
+            "mainClass": "secuenciales.frm02",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm03",
+            "request": "launch",
+            "mainClass": "secuenciales.frm03",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm04",
+            "request": "launch",
+            "mainClass": "secuenciales.frm04",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm05",
+            "request": "launch",
+            "mainClass": "secuenciales.frm05",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm06",
+            "request": "launch",
+            "mainClass": "secuenciales.frm06",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm07",
+            "request": "launch",
+            "mainClass": "secuenciales.frm07",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm08",
+            "request": "launch",
+            "mainClass": "secuenciales.frm08",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm09",
+            "request": "launch",
+            "mainClass": "secuenciales.frm09",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm10",
+            "request": "launch",
+            "mainClass": "secuenciales.frm10",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm11(1)",
+            "request": "launch",
+            "mainClass": "secuenciales.frm11",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm12(1)",
+            "request": "launch",
+            "mainClass": "secuenciales.frm12",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm13",
+            "request": "launch",
+            "mainClass": "secuenciales.frm13",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm14",
+            "request": "launch",
+            "mainClass": "secuenciales.frm14",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm15",
+            "request": "launch",
+            "mainClass": "secuenciales.frm15",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm16",
+            "request": "launch",
+            "mainClass": "secuenciales.frm16",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm17",
+            "request": "launch",
+            "mainClass": "secuenciales.frm17",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm18",
+            "request": "launch",
+            "mainClass": "secuenciales.frm18",
+            "projectName": "appfp"
+        },
+        {
+            "type": "java",
+            "name": "frm19",
+            "request": "launch",
+            "mainClass": "secuenciales.frm19",
+            "projectName": "appfp"
+        }
+    ]
+}
